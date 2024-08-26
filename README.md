@@ -18,7 +18,7 @@ View Notes: Click on a note in the left column to view it.
 
 Demo
 Walkthrough Video:
-<iframe src="https://drive.google.com/file/d/1aigo98e7mlYqAoeCe77BOBH--bIKuqOX/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/1aigo98e7mlYqAoeCe77BOBH--bIKuqOX/preview
 
 
 ## Deployment
